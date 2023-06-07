@@ -8,7 +8,7 @@ namespace SampleMomusPipelineDemo.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezing", "Yaritza Fonseca", "Chilly", "Sandra Flores", "Mild", "Susan Lacayo", "Balmy", "Enrique Fonseca", "Sweltering", "Scorching", "Luis Fonseca", "Sandra Fonseca"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
